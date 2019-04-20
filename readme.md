@@ -157,9 +157,3 @@ on d.strata_type = o.strata_type;
 ## Conclusion
 
 By strata type, the percentage of people with obesity appears to be around double the percentage of people with depression.
-
-However, there were correlations, as you can see on the table above.
-
-Women have both, a higher percentage of obecity and depression when compare against men.
-
-The same is true when income in <35,000.
